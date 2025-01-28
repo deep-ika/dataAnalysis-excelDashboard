@@ -5,7 +5,7 @@ This project focuses on analyzing pizza sales data using Excel and SQL, transfor
 ## Dataset Used
 - <a href="https://github.com/deep-ika/dataAnalysis-excelDashboard/blob/main/pizza_sales.xlsx"> Dataset </a>
 
-## Questions
+## Questions(KPIs)
 - 	Total Revenue Obtained
 - 	Average Order Value From overall sales
 -   Total Pizzas sales
@@ -18,3 +18,8 @@ This project focuses on analyzing pizza sales data using Excel and SQL, transfor
 -   Total Pizzas Sold by Pizza Category
 -   Top 5 Best Sellers by Total Pizzas Sold
 -   Bottom 5 Best Sellers by Total Pizzas Sold
+
+-   Interactive Dashboard <a href="https://github.com/deep-ika/dataAnalysis-excelDashboard/blob/main/excelDashboard.png"> View Dashboard </a>
+
+## Process
+
