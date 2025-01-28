@@ -30,5 +30,7 @@ This project focuses on analyzing pizza sales data using Excel and SQL, transfor
 
 
 ## Dashboard
-https://github.com/deep-ika/dataAnalysis-excelDashboard/blob/main/excelDashboard.png
+![excelDashboard](https://github.com/user-attachments/assets/163eade3-9fce-44fe-acb1-835abe88c6d5)
+
+
 
