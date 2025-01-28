@@ -22,4 +22,9 @@ This project focuses on analyzing pizza sales data using Excel and SQL, transfor
 -   Interactive Dashboard <a href="https://github.com/deep-ika/dataAnalysis-excelDashboard/blob/main/excelDashboard.png"> View Dashboard </a>
 
 ## Process
+- Load the dataset into SQL database.
+- Perform data cleaning & transformations using SQL queries.
+- Export cleaned data into Excel.
+- Create pivot tables and charts to visualize sales trends.
+- Design an interactive dashboard using Excel features.
 
