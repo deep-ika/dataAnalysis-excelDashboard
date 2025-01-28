@@ -34,10 +34,10 @@ This project focuses on analyzing pizza sales data using Excel and SQL, transfor
 
 ## Data Insights
 -Sales Performance Trends
-  -Total Revenue: 💲8,17,860
-  -Total Orders: 📦 21,350
-  -Total Pizzas Sold: 🍕 49,574
--Average Order Value (AOV): 💰 $38.31
+  -Total Revenue: $8,17,860
+  -Total Orders:  21,350
+  -Total Pizzas Sold:  49,574
+-Average Order Value (AOV):  $38.31
   - Best & Worst Selling Pizzas
     - Top-Selling Pizza: Classic Deluxe Pizza (2,453 orders)
     - Worst-Selling Pizza: Brie Carre Pizza (490 orders)
